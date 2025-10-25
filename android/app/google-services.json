@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265964580501",
+    "project_id": "dm3-avaliacao",
+    "storage_bucket": "dm3-avaliacao.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265964580501:android:8e2c75e5e87cbdb861359c",
+        "android_client_info": {
+          "package_name": "com.example.dm3_avaliacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdhjV7KHJwMq-cAA4YKh0fCLcEXkmfmPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

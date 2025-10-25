@@ -39,6 +39,9 @@ dependencies:
   sqflite: ^2.3.0
   path_provider: ^2.1.1
 
+  cloud_firestore: ^6.0.3
+  firebase_core: ^4.2.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
